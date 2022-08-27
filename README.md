@@ -6,4 +6,3 @@ Concepts which are discussed in this repo are  given below:
 * Feature Engineering
 * pandas
 
-You will find the necessary datasets in the Dataset folder.
